@@ -26,7 +26,7 @@ public class HealthCareConstants {
     public static  String DATA = "Data";
     public static String IN_ACTIVE ="inActive" ;
     public static String STATUS_SUCCESS ="SUCCESS" ;
-    public static final String  ="PATIENT" ;
+    public static final String PATIENT  = "PATIENT" ;
     public static String Patient_NOT_FOUND ="Patient not found" ;
     public static String STATUS_FAILURE ="FAILED" ;
     public static  String STATUS ="status" ;
