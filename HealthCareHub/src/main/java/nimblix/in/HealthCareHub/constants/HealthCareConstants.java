@@ -12,7 +12,7 @@ public class HealthCareConstants {
     public static final String PARENT = "PARENT";
     public static final String LOGIN_FAILED ="Login failed" ;
     public static final String ADMIN ="ADMIN";
-    public static final String TEACHER ="TEACHER" ;
+    public static final String DOCTOR ="DOCTOR" ;
     public static final String USER_UPDATE ="Updated User" ;
     public static String ROLE_MISMATCH ="Role mismatch" ;
     public static String PAID = "PAID";
@@ -20,14 +20,14 @@ public class HealthCareConstants {
     public static String SUBSCRIPTION_EXPIRED = "Subscription expired";
     public static String TRAIL_START_DATE ="Trial start date" ;
     public static String SUBSCRIPTION_STATUS ="Subscription status" ;
-    public static String SCHOOLS_LIST ="Schools list" ;
+    public static String HOSPITAL_LIST ="hospital list" ;
     public static String SUBSCRIPTION_TRAIL ="TRIAL" ;
-    public static String TEACHER_ROLE ="TEACHER" ;
+    public static String DOCTOR_ROLE ="DOCTOR" ;
     public static  String DATA = "Data";
     public static String IN_ACTIVE ="inActive" ;
     public static String STATUS_SUCCESS ="SUCCESS" ;
-    public static final String STUDENT ="STUDENT" ;
-    public static String STUDENT_NOT_FOUND ="Student not found" ;
+    public static final String  ="PATIENT" ;
+    public static String Patient_NOT_FOUND ="Patient not found" ;
     public static String STATUS_FAILURE ="FAILED" ;
     public static  String STATUS ="status" ;
     public static String ACTIVE = "active";
